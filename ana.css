@@ -1,0 +1,56 @@
+body{
+    align-items: center;
+    background-color:azure;
+    color: cadetblue;
+    }
+h1{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+}
+h3{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+div{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+p{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+   .tenta{
+    border: 1cm;
+    border-bottom: 1cm;
+    border-radius: 50%;
+   }
+   textarea{
+    border-color: cornflowerblue;
+    border-radius: 10%; 
+   }
+    img{
+        width: 350px;
+        align-items: center;
+
+    }
+    .nome{
+        width: 200px;
+        margin-bottom: 10px;
+    }
+    .sobrenome{
+        width: 200px;
+        margin-bottom: 10px;
+    }
+    .E-mail{
+        width: 200px;
+        margin-bottom: 10px;
+    }
+    button{
+        background-color: blueviolet;
+        color: antiquewhite;
+    }
